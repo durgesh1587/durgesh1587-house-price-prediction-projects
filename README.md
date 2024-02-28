@@ -1,7 +1,7 @@
-##House Price Prediction##
+#House Price Prediction
 Predicting house prices using machine learning algorithms.
 
-##About##
+#About
 This project focuses on predicting house prices using machine learning techniques. The goal is to develop a model that accurately predicts the selling price of houses based on various features.
 
 ##Features##
